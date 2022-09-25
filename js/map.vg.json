@@ -1,6 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": "COVID-19 Active Cases (10 Oct 2020)",
+    "title": "CO2 Emissions 2014",
     "width": 800,
     "height": 400,
     "projection": {"type": "equalEarth"},
